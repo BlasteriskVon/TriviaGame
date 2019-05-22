@@ -1,0 +1,45 @@
+.answerButton {
+    width: 100%;
+    height: auto;
+}
+
+body {
+    background-image: url("../images/3064.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.countDown {
+    background-color: yellowgreen;
+    color: darkgreen;
+}
+
+.captionRow {
+    background-color: yellowgreen;
+    color: green;
+}
+
+.captionColumn {
+    font-size: 10em;
+    color: green;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+.questionColumn {
+    color: darkgreen;
+    text-shadow: -1px 0 yellowgreen, 0 1px yellowgreen, 1px 0 yellowgreen, 0 -1px yellowgreen;
+    background-color: yellowgreen;
+    height: 10em;
+}
+
+.answerColumn {
+    color: darkgreen;
+    text-shadow: -1px 0 yellowgreen, 0 1px yellowgreen, 1px 0 yellowgreen, 0 -1px yellowgreen;
+    background-color: yellowgreen;
+    height: 10em;
+}
